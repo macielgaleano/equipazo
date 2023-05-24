@@ -34,7 +34,9 @@ export default function Main() {
       </div>
       <div className='header__title'>
         {/* responsive con tailwind, centrar textos en responsive */}
-        <h1 className='text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl text-center sm:text-left md:text-left lg:text-left xl:text-left mb-4'>Equipazo F.C</h1>
+        <h1 className='text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl text-center sm:text-left md:text-left lg:text-left xl:text-left m
+        
+        b-4'>Equipazo F.C</h1>
         <h2 className="mt-2 text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl   text-center sm:text-left md:text--xl lg:text-2xleft lg:text-left xl:text-left">El mejor equipo de la historia </h2>
         <p className='text-base sm:text-lg md:textl xl:text-3xl   text-center sm:text-left md:text-left lg:text-left xl:text-left'>Lorem ipsum dolor sit amet, <span>consectetur adipisicing elit.</span> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque voluptas repellendus magni dignissimos quod officia reiciendis, odit deleniti beatae cupiditate!</p>
       </div>
