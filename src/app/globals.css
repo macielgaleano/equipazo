@@ -27,9 +27,18 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
- 
+
+
+header {
+  margin-bottom: 200px;
+}
+
+.videos {
+  margin-top: 200px;
+}
 
 .header {
+ 
   padding: 20px;
   max-width: 1000px;
   margin: 0 auto;
