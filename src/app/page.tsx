@@ -1,9 +1,10 @@
 import Image from 'next/image'
+import Main from './components/Main'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <Image src="/1_5.png" alt="logo" width="200" height="200" />
-    </main>
+    <div className="min-h-screen">
+      <Main />
+    </div>
   )
 }
