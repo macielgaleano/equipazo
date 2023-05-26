@@ -5,7 +5,7 @@ const jugadores = [
       equipo: "Equipazo FC",
       edad: "21",
       nacionalidad: "Uruguayo",
-      dorsal: 18,
+      dorsal: 7,
       imagen:
         "https://lh3.googleusercontent.com/-hpHiTVncxU6zCGmqdqq0Tdi2Wj5vHyC3t5l1lNfB2jagColLL0b7dslRrm8lQ6QmO2i9Pujr4K3Tpg6-A8VO1RsWon1OZAMcFbJDC2urKlz_B2K6x2UFuPUwgfkQQP2x4Mh_ItNPrN2KhZOC_pUw1IbVXny8ssQ24W6J3RmMOzrhd4EqXzyYbwvAwEf3x33JrVWrBxdMCPp0h6x2R1mB4fkTyqdaGFx7bE1Ulq5Q1Gap_zaGpnjn5T7x2nKn7ueDMuUKNpQIWx51PMWQGa6YnMLikX-RhmdWKNXNHvv8z1tcYBf8d72fODXd90PWTcMiZF5jw5w-HY4VtcoxGeYMTt1zhW-1DMUnQMBRDbqXGDsTHzIbUB0il5wyaiA3WcwGJIhq1w9-scOLxzsB6yLYLnnCWGhCR3GzLwp58NxeWkQ2Nn5iPqxxaS1uql21d2quIAkC8CcmMnxhPHP8tjvj-EbCriX2y_f2RCx6K4T5u-c_2-TNSoa9IQclygK4Wr1btIapDQLH_UJBBxRyTtJMhvGorGo9_bZVl1ucHnKkiuyDgaZpTZKN0ZnvlGf71pxpXrXDF45dW_jAH898fgtqziiUs6FHhDL37V50dbIsgz1Fdkt-F3Jg-EN-wltqWFxTyBiIcoQ4eHpmv1b1A6AI1q9lp1izML-Fb8rk8Zhk51ofAMpphqKoHG2ODqMyNOTs9IHJuz9Rgdvqr7PcK5-nzbbxEH7daYGr7NQBRohrQDQZcR8eO7Nla2VJBb9PJB6cajeReGP2RZqqxfd_BI69g0J_RbSgPw0ZtpZvqIHpgEfH1Zd9kT7I7DUYG_InJm33tDGFQXZwNOY5AnzoyYqzndrpLQEbHRlf9bWkrCaJXmQBPye_Q34NHPuYpfh2Ksf6RE616R5l5jESyb9HWLdmbb-s12J4nwlQtXH-ggXCf39-cg1OXzr8FKDQYILry8NscN5K7Udc9odbDMyFLTv=w417-h235-no?authuser=0",
     },
@@ -45,7 +45,7 @@ const jugadores = [
       equipo: "Equipazo FC",
       edad: "21",
       nacionalidad: "Uruguayo",
-      dorsal: 5,
+      dorsal: 8,
       imagen:
         "https://cdn.vox-cdn.com/thumbor/-96l2N7Ucf27ngOVwbn-YZA2fCU=/0x0:3211x4282/1200x800/filters:focal(1472x594:1984x1106)/cdn.vox-cdn.com/uploads/chorus_image/image/71895668/1246457044.0.jpg",
     },
@@ -55,7 +55,7 @@ const jugadores = [
       equipo: "Equipazo FC",
       edad: "22",
       nacionalidad: "Uruguayo",
-      dorsal: 7,
+      dorsal: 5,
       imagen:
         "https://lh3.googleusercontent.com/xJSE6j2PolMHsyQN_MgVUv58gG_EiSW3420DrL4Gy5vwSXXtcWqOwmz7W17Ml6WJIYzkTpNqcAG-ebdhLW75ECyUtFR4NQSoqXP_QX2lnbUYCdJTwRg1EWoHp4zz1NxuAtoCwTe3MSXab9YbDThgysUopLWbPcvZsPYx6p1Hc7jAEQ77nvoWPlTsbmDkGg0Y9CABnE1Eh3lNPlRengbLrhOJbLxj0zT2nhqXTZZH29nlbjAD0Y8PqEHVlPCAdbwOBMpHg3_0FBoxuJdpcyl3ZnwW737FyWdTBF7FYZuJaTIx05rdlERjPyKFJ9ddLm9ZaaIHDlpbOorCUyVMUNNKD_PCgCHWrKxQdfy2PuiYmQgw_LB8cn3rLcLepV6K9YFX69fWa5qP7pCU2-boT3923o7lHOXgXUPcRFyLovcn5b5K75S9XoSiXHSzEbVpZL1dk2hXkKIST03CoeIBumIj1i0gLjDTTdbRkWOe63cxV43LtqG_XUgJihFd6eg6CxqgQnJDh9DEpx2ydrhlvQA0NFBZdEN48NBU0_ZWZi1q2ToPsjaXvyMCZ2MOx8bsd8DqZ6FigKioBzKoZCdGwj4VHQO_d57koV90vo0hX3amkHFX9h1i98HndX6L9u-wenJfYyHaQV912DignqW4X7Wl70izifJHRxeMjIu26hoYxIY-e8VLWuU2hy9T4m9ucX6lNFqRkB9qLitoEisfB2vGQ8S68k3DCohqpGEFXKaFR2GNVUy5Cq3lGqXBsw6-3iwh09asBww-Q9Kj4WPkfOnJajx8XZArUuQp_VozvkE0X9ccjFDPxL-DG__dSrghCDmUfxqRPTEOrLFgn7B87DhcBKxGqdKODkPCk3XTgw2GRF_Jl6lRnBhrfH0ojgrEusA6P1RkFRA0Xqj-E_A_Z5uMjyVVveShNvTK6Oa_zKARVdSv3G2SCuBEK03IMYWWFPH5dQLYq6CB790EtusKxuV2=w1172-h657-s-no?authuser=0",
     },
