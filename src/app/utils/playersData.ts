@@ -45,9 +45,9 @@ const jugadores = [
       equipo: "Equipazo FC",
       edad: "21",
       nacionalidad: "Uruguayo",
-      dorsal: 8,
+      dorsal: 5,
       imagen:
-        "https://cdn.vox-cdn.com/thumbor/-96l2N7Ucf27ngOVwbn-YZA2fCU=/0x0:3211x4282/1200x800/filters:focal(1472x594:1984x1106)/cdn.vox-cdn.com/uploads/chorus_image/image/71895668/1246457044.0.jpg",
+        "https://lh3.googleusercontent.com/RQu2TE6u0hrfONhd6wWI45elKIqhP3xsV1acAw5papfSUjCwak0r7uzNYpeNF25PO0oaIv-Eb8Ur7feNMcN1b_G-WLtobm2FTv-F2NJkraIP0ES_JsRb5BTHjkVeJnxm3X7-2WOavLfkWychQ61VqqNXZWsfJBgRQ2b2y3MZcsM3nh91WeviiQzZ9V-VGX-gUyWM2BCybXN9VvToQlk7fmTSro7VR0RBXdnkVyrZ4cABzq0qVitTa0x47QvrK92lShHzc1z6G-0wsxlaNrEjfACWJHo7AGqlI6ehu2RSj2H8KxdcqRfzXL9VZpF5kaB1AeE9vgWjAPlhmQM-8HpiAINTD4UobYKwNQ30ntaaGdP998P8biQwJajnaMO2nGeuDuJdP4vl9s0DI7MLxUvrEE3OXpAFD0lUD3RBid3zMytMHUALVU0pPWEXmBV9wKvKR0QKSmjRysHSamaKBmq6sWN1-eO2vsoUh1LCuKPMcP6PWT8u9pNXb33qSwT6Hd6JUpVT4a-BbLOcumrvGuoohO8Q4c9cPZ3mhy3zJ4sVXieyrFZp7PkVKXdmaF__H2rn_6ADcyO86BzDYlJf_Q7ldZhKjSzM4gcmxxjdC5zBQ0ZTC_jBrB-L_xIh4ymxjXlQr3_wmYXtBIamCC3qpsIuKzVvj0B2PQDc9HOyUYAULhcIIt08LJeR3_XcMtNfnjPBAzjgbxWDZvl9vzFRNFufKmeHrUdda6zv6HAYKFtV4pILbbcWuGuaNZna8vB2ipekrBiAZtOYVsWUlZySrSMTrbyiOOmeURJ7hdGziOhbVoELxwdD6WAsiyZdLnrm4Ay6rz-f5UHg5kSfysJYoo_Y4qbpjnG5DuWpBh4K9ahQvjkmPYo3tWmrCOXNryJxvfR25ELqurWUiwFO_B5KVoSIMc7udZCBCQCLdbSZULZC3X6-nw8dmyePOLlcHYl0PIYxrN2wnrt0oWo25CqjOPdm=w1247-h657-s-no?authuser=0",
     },
     {
       nombre: "Franco Méndez",
