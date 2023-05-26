@@ -1,14 +1,8 @@
 import Image from 'next/image'
-import Main from './components/Main'
-import Nav from './components/Nav'
-import Videos from './components/Videos'
+import Home from './pages/Index'
 
-export default function Home() {
+export default function Index() {
   return (
-    <div className="min-h-screen">
-      <Nav />
-      <Main />
-      <Videos />
-    </div>
+    <Home />
   )
 }
