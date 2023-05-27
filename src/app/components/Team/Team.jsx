@@ -1,9 +1,21 @@
 "use client";
 
 import React from "react";
-import playersData from "../../utils/playersData"
+import playersData from "../../utils/playersData";
+import Stadistics from "./Stadistics";
 
 export default function Teams() {
+  function obtenerTop5(jugadores, estadistica) {
+    jugadores.sort((a, b) => b[estadistica] - a[estadistica]);
+    const top5Jugadores = jugadores.slice(0, 5);
+
+    return top5Jugadores;
+  }
+
+  const top5Goles = obtenerTop5(playersData, "goles");
+  const top5Asistencias = obtenerTop5(playersData, "asistencias");
+  const top5Valoracion = obtenerTop5(playersData, "valoracion");
+
   return (
     <div className="container mx-auto" id="teams">
       <h1 className="text-3xl text-center text-red-500 mt-20 mb-10">EQUIPO</h1>
@@ -40,7 +52,7 @@ export default function Teams() {
                   </h4>
                   <p className="font-semibold">{jugador.nacionalidad}</p>
                 </div>
-                <div className="flex-1">
+                <div className="flex-1 hidden sm:block">
                   <h4 className="text-xs text-gray-600 uppercase">Equipo</h4>
                   <p className="font-semibold">{jugador.equipo}</p>
                 </div>
@@ -48,6 +60,11 @@ export default function Teams() {
             </div>
           </div>
         ))}
+      </div>
+      <div className="flex flex-col md:flex-row items-center">
+        <Stadistics playersData={top5Goles} estadistica={"Goles"} />
+        <Stadistics playersData={top5Asistencias} estadistica={"Asistencias"} />
+        <Stadistics playersData={top5Valoracion} estadistica={"Valoracion"} />
       </div>
     </div>
   );
